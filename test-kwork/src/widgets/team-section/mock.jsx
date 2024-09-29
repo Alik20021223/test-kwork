@@ -1,7 +1,7 @@
 export const mockDataTeam = [
   {
     id: 1,
-    img: "./public/image.png",
+    img: "/image.png",
     name: "stamp_qw",
     job: "founder full-stack developer",
     describe:
@@ -9,7 +9,7 @@ export const mockDataTeam = [
   },
   {
     id: 2,
-    img: "./public/gladiator.png",
+    img: "/gladiator.png",
     name: "gladiator",
     job: "founder back-end devops",
     describe:
@@ -17,7 +17,7 @@ export const mockDataTeam = [
   },
   {
     id: 3,
-    img: "./public/me.jpg",
+    img: "/me.jpg",
     name: "alik1223",
     job: "frontend developer",
     describe:
